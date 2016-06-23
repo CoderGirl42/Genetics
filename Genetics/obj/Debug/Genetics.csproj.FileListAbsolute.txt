@@ -1,0 +1,6 @@
+C:\Users\Marissa\Documents\GitHub\Genetics\Genetics\bin\Debug\Genetics.exe.config
+C:\Users\Marissa\Documents\GitHub\Genetics\Genetics\bin\Debug\Genetics.exe
+C:\Users\Marissa\Documents\GitHub\Genetics\Genetics\bin\Debug\Genetics.pdb
+C:\Users\Marissa\Documents\GitHub\Genetics\Genetics\obj\Debug\Genetics.csprojResolveAssemblyReference.cache
+C:\Users\Marissa\Documents\GitHub\Genetics\Genetics\obj\Debug\Genetics.exe
+C:\Users\Marissa\Documents\GitHub\Genetics\Genetics\obj\Debug\Genetics.pdb
